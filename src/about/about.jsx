@@ -7,10 +7,6 @@ export default props => (
         <PageHeader name="Sobre" small="Nós" />
 
         <h2>Nossa história</h2>
-        <p>Era uma vez...</p>
-        <h2>Missão e visão</h2>
-        <p>Nossas metas ...</p>
-        <h2>Imprensa</h2>
-        <p>Bom ...</p>
+        <p>Sisteminha desenvolvido no curso de react da Cod3r</p>
     </div>
 )
