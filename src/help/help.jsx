@@ -4,7 +4,7 @@ import PageHeader from '../template/pageHeader'
 
 export default props => (
     <div>
-        <PageHeader name="Ajuda" small="tricks" />
+        <PageHeader name="Ajuda" small="atalhos" />
         <h2>Teclas de Atalho</h2>
         <ul>
             <li><strong>Enter</strong> - adicionar TODO.</li>
